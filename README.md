@@ -1,6 +1,6 @@
-# Anonymous Code Release: LoBCD-GW Experiments 
+#LoBCD-GW Experiments 
 
-This repository contains an anonymous implementation and evaluation scripts for LoBCD-GW.
+LoBCD-GW: A Fast and Data-Dependent Algorithm for Computing Gromov-Wasserstein Distance via Localized Block Coordinate Descent
 
 
 ## 1. Overview
