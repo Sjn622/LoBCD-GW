@@ -15,13 +15,6 @@ Included components:
   - `run_scNMT_LoBCD_GW.py`: scNMT three-modality alignment grid search.
 - **Generate Synthetic Data**
   - `generate_synthetic_data.py`: the script that generates synthetic data
-
-Reported metrics (depending on script):
-- Matching accuracy via Hungarian rounding (or fallback greedy).
-- Marginal feasibility gap (row/col sum residual).
-- Bidirectional label-transfer accuracy (A→B and B→A).
-- Runtime.
-
 ---
 
 ## 2. Repository Structure
@@ -40,7 +33,7 @@ Minimal expected layout:
 ```
 
 Notes:
-- Datasets are expected under `data/` (see **Section 4**).
+- Datasets are expected under `data/`.
 
 ---
 
